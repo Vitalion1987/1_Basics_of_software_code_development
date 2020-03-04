@@ -1,5 +1,5 @@
 package by.alehno;
-
+//z=(b+Math.sqrt(b*b+4*a*c))/(2*a)-a*a*a*c+(1/b);
 public class TaskTwo {
 
 	public static void main(String[] args) {
